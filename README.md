@@ -1,2 +1,4 @@
 # bazzar-van-caravan
-doom clone (for now)
+an epic shooty doom casic bullet hell sorta game 
+
+(currently unmade)
